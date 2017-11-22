@@ -1,0 +1,10 @@
+Para cambiar las interfaces elimina los archivos que se encuentran en esta carpeta:
+public (carpeta)
+src   (carpeta)
+
+Y Copia y pegaaquellas carpetas que se encuentran dentro de las intefaces ejemplo:
+
+interfaz_1_ventas\public (carpeta)
+interfaz_1_ventas\src (carpeta)
+
+En directorio principal
